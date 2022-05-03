@@ -1,5 +1,3 @@
-package br.fiap.Senha.Pilha;
-
 public class PilhaChar {
 	public final int  N = 50;
 
